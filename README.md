@@ -53,19 +53,19 @@
 ## 正誤表
 - 初版では以下に示す誤植がありました。お手数ですが、読み替えてご覧いただけますと幸いです。
 ### pp. 112 右上、「● 手順2：カメラ・モジュールを取り付ける」
-> 誤）`$ livcamera-vid`  
-> 正）`$ libcamera-vid`   
+誤）`$ livcamera-vid`  
+正）`$ libcamera-vid`   
 
 ### pp. 112 左上、「● 手順 3:Cefore のインストール」
-> 誤）source code (cefore-0.10.1.zip)  
-> 正）source code (cefore-0.10.0f.zip)  
+誤）source code (cefore-0.10.1.zip)  
+正）source code (cefore-0.10.0f.zip)  
 
 ### pp. 121 右中、「▶(3)ファイルのアップロード」
-> 誤） `$ cefputfile ccnx:/hello/file. -f ./file.txt -r 10 -t 3600 -e 3600`  
-> 正）`$ cefputfile ccnx:/hello/file -f ./file.txt -r 10 -t 3600 -e 3600`  
+誤） `$ cefputfile ccnx:/hello/file. -f ./file.txt -r 10 -t 3600 -e 3600`  
+正）`$ cefputfile ccnx:/hello/file -f ./file.txt -r 10 -t 3600 -e 3600`  
 （通信に利用する名前は "ccnx:/hello/file" ですので、ピリオド「.」を除いてください）
 
 
 ## おわりに
-最後までご覧いただき、ありがとうございます。まだまだ不十分な readme ですので、適宜、皆様からのフィードバックに基づいてアップデートしていけたらと考えております。ご質問等は、以下のメールアドレスまでご連絡ださい。
+最後までご覧いただき、ありがとうございます。まだまだ不十分な readme ですので、適宜、皆様からのフィードバックに基づいてアップデートしていけたらと考えております。ご質問等は、以下のメールアドレスまでご連絡下さい。
 - na5-info@nict.go.jp
