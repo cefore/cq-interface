@@ -41,7 +41,7 @@
 - `chapter5/*` 第2部5章で Cefpyco を用いたアプリ開発（基本操作、センサー・ファンアプリ）に利用するファイルです。
 
 <!-- ## cefore-0.10.1 のインストール
-先述の通り、cefore-0.10.1 は OpenSSL 3.x を前提としているため OpenSSL 1.x 対応の cefore-0.10.0f とは OpenSSL のインストール方法が異なります。以下の手順で OpenSSL をインストールした後、Cefore のインストール時に当該ライブラリをご指定ください。
+先述の通り、cefore-0.10.1 は OpenSSL 3.x を前提としているため OpenSSL 1.x 対応の cefore-0.10.0g とは OpenSSL のインストール方法が異なります。以下の手順で OpenSSL をインストールした後、Cefore のインストール時に当該ライブラリをご指定ください。
 ### ラズパイの OpenSSL 3.x 設定
 -  -->
 
@@ -77,7 +77,7 @@
 
 #### p. 112 左上、「● 手順 3:Cefore のインストール」
 誤）source code (cefore-0.10.1.zip)  
-正）source code (cefore-0.10.0f.zip)  
+正）source code (cefore-0.10.0g.zip)  
 
 #### p. 121 右中、「▶(3)ファイルのアップロード」
 誤）`$ cefputfile ccnx:/hello/file. -f ./file.txt -r 10 -t 3600 -e 3600`  
